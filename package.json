@@ -1,0 +1,9 @@
+{
+	"name": "demo-vectordb",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.50.3",
+    "openai": "^5.8.2"
+  }
+}
